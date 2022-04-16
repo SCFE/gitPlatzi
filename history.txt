@@ -1,5 +1,9 @@
 no hay nada por ahora
+<<<<<<< HEAD
 "PUES ESTO TAMBIEN ES UN PROBLEMA JOJOJO"
+=======
+"esto es un problema"
+>>>>>>> cabecera
 agregue este salto de linea
 
 
