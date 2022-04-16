@@ -1,3 +1,6 @@
 
 
 este es un nuevo archivo jejeje
+
+
+hola estoy probando cosas con git
