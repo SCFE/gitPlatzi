@@ -8,7 +8,7 @@ hola estoy probando cosas con git
 
 vamos a probar esto
 
-
+una nueva linea para merge
 
 
 esto sera un cambio para que haya diferencias con el archivo en la rama master
