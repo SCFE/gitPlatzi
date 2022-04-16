@@ -7,3 +7,13 @@ hola estoy probando cosas con git
 
 
 vamos a probar esto
+
+
+
+
+esto sera un cambio para que haya diferencias con el archivo en la rama master
+
+
+y asi poider hacer un merge
+
+CODIGO QR2909
