@@ -32,19 +32,20 @@ vamos a probar esto
 
 
 
-<<<<<<< HEAD
+
+
+
+
+
+
+
+
+
+
+
+
 ESTE ES EL CAMBIO EN BRANCH MASTER PARA HACER MERGE
 
 
 
 CODIGO YYY88283
-=======
-
-
-esto sera un cambio para que haya diferencias con el archivo en la rama master
-
-
-y asi poider hacer un merge
-
-CODIGO QR2909
->>>>>>> cabecera
